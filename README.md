@@ -33,7 +33,7 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+>>> Buscar clases de locuión e interpretación para aprender y busca tambien reseñas del sitio para evaluar los cursos a tomar
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
