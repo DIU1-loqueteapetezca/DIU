@@ -51,7 +51,7 @@ Hemos escogido a Teresa y Juan ya que ambos son de edades distintas y su motivac
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 ![Journey Teresa](img/Persona1_Journey.png)
-![Journey_Juan](img/Persona2_Journey.pdf)
+![Journey_Juan](img/UserJourney2.png)
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales)
 
@@ -63,6 +63,7 @@ Ambas experiencias nos sirven para observar el como se puede mejorar la página 
 Archivo con la nota: https://github.com/DIU1-loqueteapetezca/DIU/blob/master/P1/Revision%20de%20usabiliadd.xls
 
 La nota final nos da un 53, aunque hay puntos que no hemos podido del todo comprobar relacionados con la compra de cursos ya que no hemos comprado ninguno, esta nota es bastante baja, lo que nos dice que esta página tiene varios puntos donde mejorar.
+Por último, también tenemos un documento en el que hacemos un [briefing final](P1/Briefing.pdf)
 
 ## Paso 2. UX Design  
 
