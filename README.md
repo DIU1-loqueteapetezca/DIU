@@ -19,12 +19,6 @@ Miembros
  * :bust_in_silhouette:   Carlos Izquierdo Guzmán     :octocat:     
  * :bust_in_silhouette:  Oliver Megias Puertas     :octocat:
 
------ 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
 
 # Proceso de Diseño 
 
@@ -34,7 +28,9 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Buscar clases de locuión e interpretación para aprender y busca tambien reseñas del sitio para evaluar los cursos a tomar
+>>> Buscar clases de locuión e interpretación para aprender y buscar reseñas del sitio para evaluar los cursos a tomar
+
+Hemos escogido la web de [Escuela de teatro y doblaje remiendo](https://escueladeteatroengranada.es/) para el desarrollo de esta práctica. En este apartado hemos realizado un [User Research](P1/P1%20User%20Research.pdf) en el que nos hemos puesto en la piel de un usuario para recopilar la información.
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
@@ -46,7 +42,7 @@ Hemos escogido la web de [Escuela de teatro y doblaje remiendo](https://escuelad
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 ![Teresa](img/Persona1Teresa.png)
-![Juan](img/Persona2.pdf)
+![Juan](img/Persona2.png)
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha
 
