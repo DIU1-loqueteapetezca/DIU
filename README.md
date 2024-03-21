@@ -2,7 +2,8 @@
 Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... ) 
 
 Grupo: DIU1_01AABB.  Curso: 2023/24 
-Updated: 11/2/2024
+Updated: 21/3/2024
+Enlace Github: https://github.com/DIU1-loqueteapetezca/DIU
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
