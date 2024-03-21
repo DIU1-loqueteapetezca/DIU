@@ -62,7 +62,7 @@ Ambas experiencias nos sirven para observar el como se puede mejorar la página 
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
-![Nota Usabilidad](img/Nota_Usability.png)
+![Nota Usabilidad](img/Nota_Usability.PNG)
 Archivo con la nota: https://github.com/DIU1-loqueteapetezca/DIU/blob/master/P1/Revision%20de%20usabiliadd.xls
 
 La nota final nos da un 53, aunque hay puntos que no hemos podido del todo comprobar relacionados con la compra de cursos ya que no hemos comprado ninguno, esta nota es bastante baja, lo que nos dice que esta página tiene varios puntos donde mejorar.
