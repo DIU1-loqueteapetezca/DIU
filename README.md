@@ -42,7 +42,7 @@ Hemos escogido la web de [Escuela de teatro y doblaje remiendo](https://escuelad
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 ![Teresa](img/Persona1Teresa.png)
-![Juan](img/Persona2.png)
+![Juan](img/Persona#1.png)
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha
 
