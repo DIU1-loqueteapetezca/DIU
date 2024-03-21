@@ -38,7 +38,7 @@ Miembros
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+>>> Hemos escogido la web de [Escuela de teatro y doblaje remiendo](https://escueladeteatroengranada.es/) . Hemos escogido esta página ya que no estamos faliriarizados con el teatro y doblaje, como webs de la competencia hemos escogido la [Escuela de arte dramático de Almería](https://artedramaticoalmeria.com/) y [La bobina](https://www.labobina.es/es/) ya que ambas se dedican a lo mismo.
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
