@@ -44,23 +44,28 @@ Hemos escogido la web de [Escuela de teatro y doblaje remiendo](https://escuelad
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
+![Teresa](img/Persona1Teresa.png)
+![Juan](img/Persona2.pdf)
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+>>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha
+
+Hemos escogido a Teresa y Juan ya que ambos son de edades distintas y su motivación para entrar en la página web son distintas lo que puede ayudarnos a ver de varios puntos de vista la página.
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
+![Journey Teresa](img/Persona1_Journey.png)
+![Journey_Juan](img/Persona2_Journey.pdf)
 
+>>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales)
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+Ambas experiencias nos sirven para observar el como se puede mejorar la página web ya que ambos tienen habitos de personas de su edad como compaginarlo con el trabajo o olvidarse por estár en otra cosa.
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+![Nota Usabilidad](img/Nota_Usability.png)
+Archivo con la nota: https://github.com/DIU1-loqueteapetezca/DIU/blob/master/P1/Revision%20de%20usabiliadd.xls
 
+La nota final nos da un 53, aunque hay puntos que no hemos podido del todo comprobar relacionados con la compra de cursos ya que no hemos comprado ninguno, esta nota es bastante baja, lo que nos dice que esta página tiene varios puntos donde mejorar.
 
 ## Paso 2. UX Design  
 
