@@ -6,13 +6,10 @@ Updated: 21/3/2024
 Enlace Github: https://github.com/DIU1-loqueteapetezca/DIU
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2
 
 Organización de Torneos de Juegos de Mesa
 
 Descripción: 
-
->>> Describa la idea de su producto en la práctica 2
 
 La idea es crear una organización donde se creen torneos de juegos de mesa tanto para nuevos jugadores y experimentados, con el fín de acercar a mas gente al mundo de los juegos de mesa
 
