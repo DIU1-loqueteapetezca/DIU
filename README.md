@@ -6,11 +6,15 @@ Updated: 21/3/2024
 Enlace Github: https://github.com/DIU1-loqueteapetezca/DIU
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Decida el nombre corto de su propuesta en la práctica 2
+
+Organización de Torneos de Juegos de Mesa
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Describa la idea de su producto en la práctica 2
+
+La idea es crear una organización donde se creen torneos de juegos de mesa tanto para nuevos jugadores y experimentados, con el fín de acercar a mas gente al mundo de los juegos de mesa
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
@@ -37,7 +41,7 @@ Hemos escogido la web de [Escuela de teatro y doblaje remiendo](https://escuelad
 
 Hemos escogido la web de [Escuela de teatro y doblaje remiendo](https://escueladeteatroengranada.es/) . Hemos escogido esta página ya que no estamos faliriarizados con el teatro y doblaje, como webs de la competencia hemos escogido la [Escuela de arte dramático de Almería](https://artedramaticoalmeria.com/) y [La bobina](https://www.labobina.es/es/) ya que ambas se dedican a lo mismo.
 
-![Competitive Analysis](img/DeskResearch.pdf)
+![Competitive Analysis](img/DeskResearch.png)
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
