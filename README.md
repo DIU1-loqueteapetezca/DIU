@@ -93,7 +93,7 @@ Por último, también tenemos un documento en el que hacemos un [briefing final]
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+![Breakpoint](img/Breakpoint.PNG)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
