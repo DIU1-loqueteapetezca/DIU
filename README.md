@@ -118,7 +118,9 @@ Por último, también tenemos un documento en el que hacemos un [briefing final]
 ----
 
 >>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
+
+Hemos decidido implementar los Patrones IU de Resitrar, para poder iniciar sesión y realizar la inscripción en los torneos. Hemos usado la Organización de Contenidos para separarlos por categorías y Mostrar.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
@@ -132,6 +134,9 @@ Por último, también tenemos un documento en el que hacemos un [briefing final]
 
 >>> Publicar my Case Study en Github..
 >>> Documente y resuma el diseño de su producto
+Nuestro producto es una página que se encarga de organizar torneos. Lo hace publicando torneos y permitiendo que los usuarios de la página se puedan incribir.
+Además, consta de una clasificación en la que cada usuario está dentro de un ranking según los puntos qu ha conseguido en los torneos que ha participado.
+En nustra página encuentras variedad de torneos y la información relacionada con cada torneo.
 
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
