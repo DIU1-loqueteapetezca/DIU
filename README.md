@@ -109,8 +109,10 @@ Por último, también tenemos un documento en el que hacemos un [briefing final]
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+![LandinPageMovil](P3/LandingPageMovil.png)
 
->>> Plantear Landing Page 
+![LandinPageOrdenador](P3/LandingPageOrdenador.png)
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
@@ -121,7 +123,7 @@ Por último, también tenemos un documento en el que hacemos un [briefing final]
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+![MockUp](P3/MockUp.png)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
