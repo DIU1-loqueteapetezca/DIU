@@ -103,9 +103,7 @@ Por último, también tenemos un documento en el que hacemos un [briefing final]
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+![Moodboard](P3/Moodboard.png)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
