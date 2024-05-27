@@ -14,7 +14,8 @@ Descripción:
 La idea es crear una organización donde se creen torneos de juegos de mesa tanto para nuevos jugadores y experimentados, con el fín de acercar a mas gente al mundo de los juegos de mesa
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
+![Logo](img/logo.png)
 
 Miembros
  * :bust_in_silhouette:   Carlos Izquierdo Guzmán     :octocat:     
