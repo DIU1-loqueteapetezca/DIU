@@ -15,7 +15,7 @@ La idea es crear una organización donde se creen torneos de juegos de mesa tant
 
 Logotipo: 
 
-![Logo](img/logo.png)
+<img src="img/logo.png" width=200>
 
 Miembros
  * :bust_in_silhouette:   Carlos Izquierdo Guzmán     :octocat:     
