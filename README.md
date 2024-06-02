@@ -182,6 +182,8 @@ Resultados y valoración
 
 [Grupo MotrilCF](https://github.com/Alexrp02/DIU)
 
+Se trata de un website de juegos de mesa en el que se puede inscribir a torneos, crear torneos y apuntarse a foros sobre los distintos tipos de actividades wue presenta la página, ya que además de juegos de mesa proporciona otros tipos de actividades.
+
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
