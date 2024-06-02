@@ -211,13 +211,22 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ----
 
 Descripción
---
+-----
+Se trata de un website de juegos de mesa en el que se puede inscribir a torneos, crear torneos y apuntarse a foros sobre los distintos tipos de actividades wue presenta la página, ya que además de juegos de mesa proporciona otros tipos de actividades.
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+Resumen y metodología
+-----
+Al entrar en la web, lo primero que se nos pide es realizar el registro. Esto lo consideramos un problema ya que las personas que no estén registradas en la web no podrán acceder a la información que ofrece. Tras iniciar sesión, se nos muestra el Home en el que nos aparece un mensaje de bienvenida e infroamción relacionada con el usuario. Un punto positivo es la navibar que tienen implementada ya que puedes navegar por ella de forma sencilla. Un problema que detectames es que, aunque cada actividad permite la incripción, no hay un formulario como tal en el que el usuario introduzca sus satos para realizar la inscripción. Otro aspecto positivo es el scroll en toda la web. Un aspecto que puede llegar a ser un problema es que los usuarios sean capaces de crear torneos ya que esto requirirá bastante control con los pagos y los desarrollos de los torneos. La página tiene una muy buena estructura y se puede acceder a toda la infromaciñon de forma sencilla.
 
 
+Cuestionario SUS
+------
 
->>> Valoración personal 
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
+| #USER3  | H / 20   | Estudiante  | Avanzado       | Ocupado y triste | Windows       | B 
+| #USER4  | H / 21   | Estudiante  | Avanzado       | Fiestero y enfadado       | Windows        | B 
+
 
 
 
