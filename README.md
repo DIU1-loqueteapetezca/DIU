@@ -152,6 +152,8 @@ Exportación a HTML/Flutter
 Diseño del experimento 
 ----
 
+(https://github.com/Alexrp02/DIU)
+
 >> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
 >> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
 
@@ -178,7 +180,7 @@ Resultados y valoración
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
