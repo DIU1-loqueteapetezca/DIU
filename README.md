@@ -228,7 +228,7 @@ Cuestionario SUS
 | #USER4  | H / 21   | Estudiante  | Avanzado       | Fiestero y enfadado       | Windows        | B 
 
 
-
+![Cuestionario](img/CuestionariosSUS.png)
 
 
 
