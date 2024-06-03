@@ -148,7 +148,7 @@ En nustra página encuentras variedad de torneos y la información relacionada c
 ----
 MotrilCF
 
-![LogoMotrilCF](img/logo.jpg)
+<img src="img/logo.jpg" width=200>
 
 [Grupo MotrilCF](https://github.com/Alexrp02/DIU)
 
@@ -172,7 +172,7 @@ Web A, loqueteapetezca:
 ![EyeTarcking](P4/Imagenes%20eye%20tracking/loqueteapetezca/heatmap/6.PNG)
 ![EyeTarcking](P4/Imagenes%20eye%20tracking/loqueteapetezca/heatmap/7.PNG)
 
-Web B, MotrilCF
+Web B, MotrilCF:\n
 ![EyeTarcking](P4/Imagenes%20eye%20tracking/MotrilCF/Aoi/1.PNG)
 ![EyeTarcking](P4/Imagenes%20eye%20tracking/MotrilCF/heatmap/1.PNG)
 ![EyeTarcking](P4/Imagenes%20eye%20tracking/MotrilCF/heatmap/2.PNG)
