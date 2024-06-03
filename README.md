@@ -161,8 +161,8 @@ MotrilCF
 4.c Eye Tracking
 ----
 
-Acontinuación, se muestro los resulktados del eye tracking realizado a cada una de las webs.
-Web A, loqueteapetezca:
+Acontinuación, se muestro los resulktados del eye tracking realizado a cada una de las webs.<br>
+Web A, loqueteapetezca:<br>
 ![EyeTarcking](P4/Imagenes%20eye%20tracking/loqueteapetezca/AOI/1.PNG)
 ![EyeTarcking](P4/Imagenes%20eye%20tracking/loqueteapetezca/heatmap/1.PNG)
 ![EyeTarcking](P4/Imagenes%20eye%20tracking/loqueteapetezca/heatmap/2.PNG)
@@ -172,7 +172,7 @@ Web A, loqueteapetezca:
 ![EyeTarcking](P4/Imagenes%20eye%20tracking/loqueteapetezca/heatmap/6.PNG)
 ![EyeTarcking](P4/Imagenes%20eye%20tracking/loqueteapetezca/heatmap/7.PNG)
 
-Web B, MotrilCF:\n
+Web B, MotrilCF:<br>
 ![EyeTarcking](P4/Imagenes%20eye%20tracking/MotrilCF/Aoi/1.PNG)
 ![EyeTarcking](P4/Imagenes%20eye%20tracking/MotrilCF/heatmap/1.PNG)
 ![EyeTarcking](P4/Imagenes%20eye%20tracking/MotrilCF/heatmap/2.PNG)
