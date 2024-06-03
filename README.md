@@ -186,13 +186,8 @@ MotrilCF
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
  
+![Usuarios](img/UsuariosSUS.png)
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| #USER1  | M / 21   | Recién graduada | Medio      | Ocupada y extresada  | Windows      | A
-| #USER2  | M / 18   | Estudiante  | Bajo           | Estudiosa y triste   | Movil        | A
-| #USER3  | H / 20   | Estudiante  | Avanzado       | Ocupado y triste     | Windows      | B 
-| #USER4  | H / 21   | Estudiante  | Avanzado       | Fiestero y enfadado  | Windows      | B 
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
