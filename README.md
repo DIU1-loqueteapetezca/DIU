@@ -216,7 +216,7 @@ Resumen y metodología
 Al entrar en la web, lo primero que se nos pide es realizar el registro. Esto lo consideramos un problema ya que las personas que no estén registradas en la web no podrán acceder a la información que ofrece. Tras iniciar sesión, se nos muestra el Home en el que nos aparece un mensaje de bienvenida e infroamción relacionada con el usuario. Un punto positivo es la navibar que tienen implementada ya que puedes navegar por ella de forma sencilla. Un problema que detectames es que, aunque cada actividad permite la incripción, no hay un formulario como tal en el que el usuario introduzca sus satos para realizar la inscripción. Otro aspecto positivo es el scroll en toda la web. Un aspecto que puede llegar a ser un problema es que los usuarios sean capaces de crear torneos ya que esto requirirá bastante control con los pagos y los desarrollos de los torneos. La página tiene una muy buena estructura y se puede acceder a toda la información de forma sencilla. Por último, destacar que se pueden considerar excesivas las distinatas categorías en las que te puedes inscribir, ya que existen torneos, foros y actividades, por lo que dependiendo del usuario puede resultar demasiado.
 
 
-4.c Cuestionario SUS
+Cuestionario SUS
 -----
 
 Como podemos ver en las puntuaciones del apartado anterior de los usuarios 3 y 4, las puntuaciones son de aceptable tipo A, ya que al usuario 3 le gustó mucho tanto los colores como toda la página ya que está bastante bien diseñada, y puntuación de aceptable tipo B, a este usuario le pareció más complejo todas las categorías que tiene la página y no le pareció tan atractiva aunque aun así tiene una puntuación muy buena.
