@@ -185,26 +185,23 @@ Resultados y valoración
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
-
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
  
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| #USER1  | M / 21   | Recién graduada | Medio      | Ocupada y extresada  | Windows      | A
+| #USER2  | M / 18   | Estudiante  | Bajo           | Estudiosa y triste   | Movil        | A
+| #USER3  | H / 20   | Estudiante  | Avanzado       | Ocupado y triste     | Windows      | B 
+| #USER4  | H / 21   | Estudiante  | Avanzado       | Fiestero y enfadado  | Windows      | B 
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+![Cuestionario](img/CuestionariosSUS.png)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+
+Como podemos ver en las puntuaciones de los usuarios 3 y 4, las puntuaciones son de aceptable tipo A, ya que al usuario 3 le gustó mucho tanto los colores como toda la página ya que está bastante bien diseñada, y puntuación de acpetable tipo B, a este usuario le pareció más complejo todas las categorías que tiene la `´agina y no le pareció tan atractiva aunque aun así tiene una puntuación muy buena.
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
@@ -218,20 +215,6 @@ Resumen y metodología
 -----
 Al entrar en la web, lo primero que se nos pide es realizar el registro. Esto lo consideramos un problema ya que las personas que no estén registradas en la web no podrán acceder a la información que ofrece. Tras iniciar sesión, se nos muestra el Home en el que nos aparece un mensaje de bienvenida e infroamción relacionada con el usuario. Un punto positivo es la navibar que tienen implementada ya que puedes navegar por ella de forma sencilla. Un problema que detectames es que, aunque cada actividad permite la incripción, no hay un formulario como tal en el que el usuario introduzca sus satos para realizar la inscripción. Otro aspecto positivo es el scroll en toda la web. Un aspecto que puede llegar a ser un problema es que los usuarios sean capaces de crear torneos ya que esto requirirá bastante control con los pagos y los desarrollos de los torneos. La página tiene una muy buena estructura y se puede acceder a toda la información de forma sencilla. Por último, destacar que se pueden considerar excesivas las distinatas categorías en las que te puedes inscribir, ya que existen torneos, foros y actividades, por lo que dependiendo del usuario puede resultar demasiado.
 
-
-Cuestionario SUS
------
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| #USER3  | H / 20   | Estudiante  | Avanzado       | Ocupado y triste | Windows       | B 
-| #USER4  | H / 21   | Estudiante  | Avanzado       | Fiestero y enfadado       | Windows        | B 
-
-
-![Cuestionario](img/CuestionariosSUS.png)
-
-
-Como podemos ver en las puntuaciones de los usuarios 3 y 4, las puntuaciones son de aceptable tipo A, ya que al usuario 3 le gustó mucho tanto los colores como toda la página ya que está bastante bien diseñada, y puntuación de acpetable tipo B, a este usuario le pareció más complejo todas las categorías que tiene la `´agina y no le pareció tan atractiva aunque aun así tiene una puntuación muy buena.
 
 Conclusión y recomendaciosnes
 -----
