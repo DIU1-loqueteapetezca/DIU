@@ -161,9 +161,26 @@ MotrilCF
 4.c Eye Tracking
 ----
 
-Acontinuación, se muestro los resulktados del heatmap del eye tracking realizado a cada una de las webs.
+Acontinuación, se muestro los resulktados del eye tracking realizado a cada una de las webs.
 Web A, loqueteapetezca:
-![Usuarios](P4/Imagenes%20eye%20tracking/loqueteapetezca/heatmap/1.PNG)
+![EyeTarcking](P4/Imagenes%20eye%20tracking/loqueteapetezca/AOI/1.PNG)
+![EyeTarcking](P4/Imagenes%20eye%20tracking/loqueteapetezca/heatmap/1.PNG)
+![EyeTarcking](P4/Imagenes%20eye%20tracking/loqueteapetezca/heatmap/2.PNG)
+![EyeTarcking](P4/Imagenes%20eye%20tracking/loqueteapetezca/heatmap/3.PNG)
+![EyeTarcking](P4/Imagenes%20eye%20tracking/loqueteapetezca/heatmap/4.PNG)
+![EyeTarcking](P4/Imagenes%20eye%20tracking/loqueteapetezca/heatmap/5.PNG)
+![EyeTarcking](P4/Imagenes%20eye%20tracking/loqueteapetezca/heatmap/6.PNG)
+![EyeTarcking](P4/Imagenes%20eye%20tracking/loqueteapetezca/heatmap/7.PNG)
+
+Web B, MotrilCF
+![EyeTarcking](P4/Imagenes%20eye%20tracking/MotrilCF/Aoi/1.PNG)
+![EyeTarcking](P4/Imagenes%20eye%20tracking/MotrilCF/heatmap/1.PNG)
+![EyeTarcking](P4/Imagenes%20eye%20tracking/MotrilCF/heatmap/2.PNG)
+![EyeTarcking](P4/Imagenes%20eye%20tracking/MotrilCF/heatmap/3.PNG)
+![EyeTarcking](P4/Imagenes%20eye%20tracking/MotrilCF/heatmap/4.PNG)
+![EyeTarcking](P4/Imagenes%20eye%20tracking/MotrilCF/heatmap/5.PNG)
+![EyeTarcking](P4/Imagenes%20eye%20tracking/MotrilCF/heatmap/6.PNG)
+
 
 
 
