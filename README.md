@@ -179,7 +179,6 @@ Resultados y valoración
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 MotrilCF
-------
 
 [Grupo MotrilCF](https://github.com/Alexrp02/DIU)
 
