@@ -182,6 +182,9 @@ Web B, MotrilCF:<br>
 ![EyeTarcking](P4/Imagenes%20eye%20tracking/MotrilCF/heatmap/6.PNG)
 
 
+Como podemos apreciar en ambas webs, lo que más llama la atención es la parte central de la página donde se encuentra la información relevante. Además, en el caso A, a los usuarios les llama también la atención las formas de contacto.
+
+
 
 
 ![Método UX](img/Survey.png) 4.d Cuestionario SUS
@@ -201,7 +204,7 @@ Se trata de un website de juegos de mesa en el que se puede inscribir a torneos,
 
 Resumen y metodología
 -----
-Al entrar en la web, lo primero que se nos pide es realizar el registro. Esto lo consideramos un problema ya que las personas que no estén registradas en la web no podrán acceder a la información que ofrece. Tras iniciar sesión, se nos muestra el Home en el que nos aparece un mensaje de bienvenida e infroamción relacionada con el usuario. Un punto positivo es la navibar que tienen implementada ya que puedes navegar por ella de forma sencilla. Un problema que detectames es que, aunque cada actividad permite la incripción, no hay un formulario como tal en el que el usuario introduzca sus satos para realizar la inscripción. Otro aspecto positivo es el scroll en toda la web. Un aspecto que puede llegar a ser un problema es que los usuarios sean capaces de crear torneos ya que esto requirirá bastante control con los pagos y los desarrollos de los torneos. La página tiene una muy buena estructura y se puede acceder a toda la información de forma sencilla. Por último, destacar que se pueden considerar excesivas las distinatas categorías en las que te puedes inscribir, ya que existen torneos, foros y actividades, por lo que dependiendo del usuario puede resultar demasiado.
+Al entrar en la web, lo primero que se nos pide es realizar el registro. Esto lo consideramos un problema ya que las personas que no estén registradas en la web no podrán acceder a la información que ofrece. Tras iniciar sesión, se nos muestra el Home en el que nos aparece un mensaje de bienvenida e infroamción relacionada con el usuario. Un punto positivo es la navibar que tienen implementada ya que puedes navegar por ella de forma sencilla. Un problema que detectames es que, aunque cada actividad permite la incripción, no hay un formulario como tal en el que el usuario introduzca sus satos para realizar la inscripción. Otro aspecto positivo es el scroll en toda la web. Un aspecto que puede llegar a ser un problema es que los usuarios sean capaces de crear torneos ya que esto requirirá bastante control con los pagos y los desarrollos de los torneos. La página tiene una muy buena estructura y se puede acceder a toda la información de forma sencilla. Destacar que se pueden considerar excesivas las distinatas categorías en las que te puedes inscribir, ya que existen torneos, foros y actividades, por lo que dependiendo del usuario puede resultar demasiado. Por último, decir que no hay ninguna forma de contacto (correo, teléfono, red social) para comunicar dudas o conocer más sobre los desarrolladores.
 
 
 Cuestionario SUS
@@ -215,7 +218,7 @@ Conclusión y recomendaciosnes
 
 Como conclusión de esta web, podemos afirmar que es un buen diseño de página que cuenta con una buena estructura y a los usuarios les queda más o menos claro su funcionamiento.
 
-Las recomendaciones son que se permitiese acceder a la web a los usuarios no registrados y así poder acceder a la información de la página y que la creación de torneos sea algo que se requiera algún tipo de permiso para que se pueda realizar.
+Las recomendaciones son que se permitiese acceder a la web a los usuarios no registrados y así poder acceder a la información de la página, que la creación de torneos sea algo que se requiera algún tipo de permiso para que se pueda realizar y que aparezcan formas de contacto con los desarrolladores.
 
 
 5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
