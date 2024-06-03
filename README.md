@@ -224,22 +224,19 @@ Las recomendaciones son que se permitiese acceder a la web a los usuarios no reg
 5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
 ----
 
+La realización del A/B testing, el eye tracking y el informe de usabilidad ha proporcionado una visión sobre la eficacia y los puntos de mejora de ambas webs. El A/B testing nos muestra la interacción del usuario con cada web, revelando que la disposición y presentación de la información son fundamentales para captar y mantener la atención del usuario. Los mapas de calor obtenidos del eye tracking confirmaron que las áreas centrales y las formas de contacto son puntos de interés cruciales, destacando la importancia de la ubicación estratégica de elementos importantes. El informe de usabilidad realiza un análisis detallado de la estructura y funcionalidad de las webs.
 
->> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
->> con los resultados del A/B testing, de eye tracking y del usability report:
->>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
-
-
-
-
+En conjunto, este proceso nos enseñó la importancia de utilizar múltiples técnicas de evaluación para conocer el comportamiento y las necesidades del usuario. Integrar diferentes métodos de evaluación nos permite abordar problemas desde varios ángulos y desarrollar soluciones más efectivas y centradas en el usuario.
 
 
 ## Conclusión final / Valoración de las prácticas
 
 
->>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+A lo largo de las prácticas, hemos seguido una metodología UX completa que abarcó desde la investigación inicial hasta la evaluación final. Este proceso ha sido fundamental para comprender y aplicar principios de diseño centrados en el usuario. Cada paso nos ha permitido profundizar en diferentes aspectos del diseño, aprendiendo cómo crear webs efectivas y con un buen diseño.
 
+La evaluación a través de métodos como el A/B testing, el eye tracking y los cuestionarios de usabilidad proporcionaron datos cruciales para mejorar nuestras propuestas de diseño, asegurando que fueran intuitivas y funcionales.
 
+En resumen, la metodología UX ha demostrado ser una guía eficiente para el desarrollo de productos centrados en el usuario. La valoración final es muy positiva, ya que hemos adquirido habilidades valiosas que son aplicables en cualquier proyecto de diseño, y hemos aprendido a crear soluciones que no solo cumplen con los requisitos técnicos, sino que también ofrecen una experiencia de usuario óptima.
 
 
 
