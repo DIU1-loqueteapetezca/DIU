@@ -140,38 +140,6 @@ Además, consta de una clasificación en la que cada usuario está dentro de un 
 En nustra página encuentras variedad de torneos y la información relacionada con cada torneo.
 
 
-## Paso 5. Exportación & evaluación con Eye Tracking 
-
-Exportación a HTML/Flutter
------
-
-![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
-
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
-
-Diseño del experimento 
-----
-
-(https://github.com/Alexrp02/DIU)
-
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
-
-
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
-
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
-
-Resultados y valoración 
------
-
-
-
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
-
-
 
 ## Paso 4. Evaluación 
 
@@ -190,12 +158,12 @@ MotrilCF
  
 ![Usuarios](img/UsuariosSUS.png)
 
-Eye Tracking
------
+4.c Eye Tracking
+----
 
 
 
-![Método UX](img/Survey.png) 4.c Cuestionario SUS
+![Método UX](img/Survey.png) 4.d Cuestionario SUS
 ----
 
 ![Cuestionario](img/CuestionariosSUS.png)
