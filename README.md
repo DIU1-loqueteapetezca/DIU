@@ -161,6 +161,10 @@ MotrilCF
 4.c Eye Tracking
 ----
 
+Acontinuación, se muestro los resulktados del heatmap del eye tracking realizado a cada una de las webs.
+Web A, loqueteapetezca:
+![Usuarios](P4/Imagenes%20eye%20tracking/loqueteapetezca/heatmap/1.PNG)
+
 
 
 ![Método UX](img/Survey.png) 4.d Cuestionario SUS
