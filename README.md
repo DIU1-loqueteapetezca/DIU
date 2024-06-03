@@ -209,7 +209,7 @@ Como podemos ver en las puntuaciones de los usuarios 3 y 4, las puntuaciones son
 
 Descripción
 -----
-Se trata de un website de juegos de mesa en el que se puede inscribir a torneos, crear torneos y apuntarse a foros sobre los distintos tipos de actividades wue presenta la página, ya que además de juegos de mesa proporciona otros tipos de actividades.
+Se trata de un website de juegos de mesa en el que se puede inscribir a torneos, crear torneos y apuntarse a foros sobre los distintos tipos de actividades que presenta la página, ya que además de juegos de mesa proporciona otros tipos de actividades.
 
 Resumen y metodología
 -----
