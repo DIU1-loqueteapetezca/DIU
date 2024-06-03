@@ -201,7 +201,7 @@ Resultados y valoración
 ![Cuestionario](img/CuestionariosSUS.png)
 
 
-Como podemos ver en las puntuaciones de los usuarios 3 y 4, las puntuaciones son de aceptable tipo A, ya que al usuario 3 le gustó mucho tanto los colores como toda la página ya que está bastante bien diseñada, y puntuación de acpetable tipo B, a este usuario le pareció más complejo todas las categorías que tiene la `´agina y no le pareció tan atractiva aunque aun así tiene una puntuación muy buena.
+Como podemos ver en las puntuaciones de los usuarios 3 y 4, las puntuaciones son de aceptable tipo A, ya que al usuario 3 le gustó mucho tanto los colores como toda la página ya que está bastante bien diseñada, y puntuación de aceptable tipo B, a este usuario le pareció más complejo todas las categorías que tiene la página y no le pareció tan atractiva aunque aun así tiene una puntuación muy buena.
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
