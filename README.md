@@ -180,6 +180,8 @@ Resultados y valoración
 ----
 MotrilCF
 
+![LogoMotrilCF](img/logo.jpg)
+
 [Grupo MotrilCF](https://github.com/Alexrp02/DIU)
 
 
@@ -187,6 +189,9 @@ MotrilCF
 ----
  
 ![Usuarios](img/UsuariosSUS.png)
+
+Eye Tracking
+-----
 
 
 
@@ -196,8 +201,7 @@ MotrilCF
 ![Cuestionario](img/CuestionariosSUS.png)
 
 
-Como podemos ver en las puntuaciones de los usuarios 3 y 4, las puntuaciones son de aceptable tipo A, ya que al usuario 3 le gustó mucho tanto los colores como toda la página ya que está bastante bien diseñada, y puntuación de aceptable tipo B, a este usuario le pareció más complejo todas las categorías que tiene la página y no le pareció tan atractiva aunque aun así tiene una puntuación muy buena.
-
+Como podemos apreciar, ambas webs tienen unos resultados similares para los usuarios y se consideran que ambas tienen una buena estructura y diseño, debido a los buenos resultados del cuestionario.
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
